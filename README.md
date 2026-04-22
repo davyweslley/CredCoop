@@ -17,7 +17,7 @@ cooperativista: a ausência de uma plataforma centralizada que reunisse
 **gestão de obras, rastreabilidade de garantias, padronização de novas agências
 e e-commerce corporativo** em um único ambiente.
 
-A plataforma foi inteiramente concebida, arquitetada e dirigida pelo autor —
+A plataforma foi inteiramente concebida, arquitetada e dirigida pelo autor
 desde a estrutura de navegação até cada critério funcional de cada módulo.
 
 ---
@@ -43,13 +43,13 @@ centralizando e padronizando a expansão da cooperativa.
 ### 🔧 Obras & Garantias
 Painel de rastreabilidade completo para todas as agências já
 em operação. Organizado por empresa prestadora, etapas da obra
-e com **controle de vencimento de garantias por serviço** —
+e com **controle de vencimento de garantias por serviço**
 garantindo visibilidade total sobre prazos e responsabilidades.
 Filtros por categoria para navegação ágil.
 
 ### 👤 Autenticação & Controle de Acesso
 Sistema de criação de conta e login. Perfis com permissões
-diferenciadas — usuários comuns e administradores com acesso
+diferenciadas, usuários comuns e administradores com acesso
 restrito por credencial.
 
 ### ⚙️ Painel Administrativo *(restrito)*
