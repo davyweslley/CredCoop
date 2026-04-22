@@ -37,7 +37,7 @@ Inclui carrinho de compras e fluxo de checkout.
 ### 📋 Solicite um Projeto
 Módulo de requisição de obras para novas agências franquiadas.
 Permite categorizar projetos externos e internos, definir critérios
-e funcionalidades necessárias para cada nova unidade —
+e funcionalidades necessárias para cada nova unidade
 centralizando e padronizando a expansão da cooperativa.
 
 ### 🔧 Obras & Garantias
